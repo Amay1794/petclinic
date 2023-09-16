@@ -1,0 +1,11 @@
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/web/CrashControllerTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceJdbcTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/web/OwnerControllerTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceJpaTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/web/VetControllerTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceSpringDataJpaTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/web/PetControllerTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/service/AbstractClinicServiceTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/web/VisitControllerTests.java
+/home/amay/git_sampleprojects/petclinic/src/test/java/org/springframework/samples/petclinic/web/PetTypeFormatterTests.java
